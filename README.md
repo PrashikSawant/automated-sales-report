@@ -154,21 +154,3 @@ The script generates **`Sales_Report.xlsx`** with 5 formatted sheets:
 
 *Turning Raw Data into Business Insights Automatically* 💡
 ```
-
----
-
-### How to Update on GitHub:
-1. Go to your **`automated-sales-report`** repo
-2. Click on **`README.md`**
-3. Click the **pencil icon** to edit
-4. **Select all** and delete everything
-5. Paste the new README above
-6. Click **"Commit changes"**
-
----
-
-Also create a **`requirements.txt`** file in the same repo by clicking **"Add file" → "Create new file"**, name it `requirements.txt` and paste this:
-```
-pandas
-openpyxl
-jupyter
